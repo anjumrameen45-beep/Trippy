@@ -45,7 +45,7 @@ function Registration(){
 
         <div className="registration-footer">
           <p>
-            Already have an account? <a href="#">Login</a>
+           Already have an account? <button type="button" className="login-link">Login</button>
           </p>
         </div>
 
